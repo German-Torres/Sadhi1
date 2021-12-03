@@ -1,0 +1,2 @@
+# Sadhi1
+Sistema administrativo de documentos y horas de ingeniería. Desarrollo informático para cubrir la necesidad del sector de ingeniería para registrar las horas imputadas a documentos. El sistema posee un módulo para carga de partes, lista de documentos, generación de remitos, administración de usuarios, informes y gestión de proyectos.  Lenguaje de desarrollo: Visual Basic.Net Servidor: SQL Server
